@@ -1,0 +1,32 @@
+<svg viewBox="0 0 640 155" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>RU Nielsen Software — Architecture Consulting</title>
+  <desc>Logo for RU Nielsen Software, a software architecture consulting firm</desc>
+
+
+  <!-- MARK -->
+  <rect x="0" y="2" width="128" height="128" rx="5" fill="#0B1929"/>
+
+  <!-- Corner brackets (architectural detail) -->
+  <path d="M13 39 L13 16 L36 16" stroke="#1D3A5C" stroke-width="2" fill="none" stroke-linecap="square"/>
+  <path d="M92 16 L115 16 L115 39" stroke="#1D3A5C" stroke-width="2" fill="none" stroke-linecap="square"/>
+  <path d="M13 93 L13 116 L36 116" stroke="#1D3A5C" stroke-width="2" fill="none" stroke-linecap="square"/>
+  <path d="M92 116 L115 116 L115 93" stroke="#1D3A5C" stroke-width="2" fill="none" stroke-linecap="square"/>
+
+  <!-- RU monogram -->
+  <text x="64" y="88" text-anchor="middle" fill="#FFFFFF" font-size="54" font-weight="900" letter-spacing="-1" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">RU</text>
+
+  <!-- Signature: electric blue accent bar -->
+  <rect x="22" y="102" width="84" height="3.5" rx="1.75" fill="#2E9EF4"/>
+
+  <!-- Separator -->
+  <line x1="152" y1="24" x2="152" y2="114" stroke="#D5DDE8" stroke-width="1"/>
+
+  <!-- WORDMARK: company name -->
+  <text x="170" y="72" fill="#0B1929" font-size="28" font-weight="700" letter-spacing="3" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">RU NIELSEN</text>
+
+  <!-- WORDMARK: SOFTWARE -->
+  <text x="170" y="94" fill="#2E9EF4" font-size="11.5" font-weight="500" letter-spacing="5.5" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">SOFTWARE</text>
+
+  <!-- Tagline -->
+  <text x="171" y="113" fill="#8AA3BC" font-size="9.5" font-weight="400" letter-spacing="2.5" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif">ARCHITECTURE  ·  CONSULTING</text>
+</svg>
